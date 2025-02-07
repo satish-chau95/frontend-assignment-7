@@ -1,6 +1,6 @@
-# Library Book Management System
+# Book Store
 
-Welcome to the Library Book Management System, a project built using Formik hooks for managing library books efficiently. This system provides CRUD (Create, Read, Update, Delete) operations to manage your library's collection effectively.
+Welcome to the My Book Store, a project built using Formik hooks for managing library books efficiently. This system provides CRUD (Create, Read, Update, Delete) operations to manage your library's collection effectively.
 
 ## Introduction
 
@@ -8,7 +8,7 @@ This project utilizes Formik hooks within React to facilitate the management of 
 
 ### Demo
 
-Explore the demo of this project: https://formik-crud-01.netlify.app/
+Explore the demo of this project: https://bookstoresatish.netlify.app/
 
 ## Reflections and Lessons Learned
 
@@ -26,9 +26,8 @@ This project is built using the following technologies:
 
 - React
 - Formik Hook
-- HTML5
-- CSS3
-- Bootstrap
+- HTML
+- CSS
 - Tailwind CSS
 - JavaScript
 
@@ -39,28 +38,6 @@ The following tools were utilized during the development of this project:
 - Visual Studio Code
 - Git
 - Netlify
-
-## Screenshots
-
-### Home Page
-
-![image](https://github.com/Prakash-V-S/formikCRUD/assets/141955456/0a0ee69e-3bc6-436d-95ff-cd083045c47b)
-
-
-### Dashboard
-
-![image](https://github.com/Prakash-V-S/formikCRUD/assets/141955456/8cbcc5c5-e65d-4354-8bd9-b8cb35ebb291)
-
-
-### Library Book Data
-
-![image](https://github.com/Prakash-V-S/formikCRUD/assets/141955456/b194bce6-bfb3-42e9-b1c8-1c78ec166c1d)
-
-
-### Create & Edit Library Book Data
-
-![image](https://github.com/Prakash-V-S/formikCRUD/assets/141955456/0c83ea48-f98b-4bb2-ae9b-441a0426d300)
-
 
 ## Setup
 
@@ -79,7 +56,7 @@ Then, follow these steps:
 
 ## Feedback
 
-Your feedback is valuable! If you have any suggestions or questions, please feel free to reach out to me at prakashvs.official@gmail.com.
+Your feedback is valuable! If you have any suggestions or questions, please feel free to reach out to me at chaurasiasatish95@gmail.com.
 
 Happy coding! 🚀
 # frontend-assignment-7
